@@ -1,1 +1,1 @@
-"Ещё одна строка!" 
+"I eche odna strochka" 
